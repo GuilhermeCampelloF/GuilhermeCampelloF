@@ -27,8 +27,9 @@ Para alcançar esse objetivo, conclui o curso de Desenvolvimento Web Full-Stack 
 </ul>
 
 ## LINGUAGENS E FERRAMENTAS:
-<div>
-    <img titl="Csharp" alt="csharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>       
+
+<div align="center">
+    <img title="Csharp" alt="Csharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />       
     <img title="JavaScript" alt="JavaScript" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img title="TypeScript" alt="TypeScript" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img title=".NET" alt=".NET" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> 
@@ -41,6 +42,7 @@ Para alcançar esse objetivo, conclui o curso de Desenvolvimento Web Full-Stack 
     <img title="Vscode" alt="Vscode" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
     <img title="Eslint" alt="Eslint" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" />
 </div>
+
 <br>
 <div align="center">
   <a href="https://github.com/guilhermecampellof">
@@ -50,7 +52,7 @@ Para alcançar esse objetivo, conclui o curso de Desenvolvimento Web Full-Stack 
 </div>
 <br>
 <div align="justify">
-  <a>📨 Caso queira entrar em contato comigo, sinta-se à vontade para <a href="mailto:guilhermecampello@hotmail.com">enviar um e-mail! </a>📨</a>
+  <a><strong>📨 Caso queira entrar em contato comigo, sinta-se à vontade para <a href="mailto:guilhermecampello@hotmail.com">enviar um e-mail! </a>📨</strong></a>
 </div>
 <br>
 <div align="center">
