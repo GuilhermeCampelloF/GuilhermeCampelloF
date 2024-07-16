@@ -1,10 +1,16 @@
 ## OLÁ! 🙋🏻‍♂️
 
-<img align="right" alt="Profile GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300px" height="300" />
-
 Me chamo Guilherme Campello, tenho 26 anos e estou iniciando minha jornada no universo do desenvolvimento de software.
 
-Na realidade, me formei em direito no ano de 2020, mas logo percebi que não era aquilo que deveria seguir durante a minha vida. Dessa forma, resolvi me desafiar!
+Na realidade, me formei em direito no ano de 2020, mas logo percebi que não era aquilo que deveria seguir durante a minha vida. Dessa forma, resolvi me **desafiar**!
+
+<br>
+
+<div align="center">
+    <img alt="Profile GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" />
+</div>
+
+<br>
 
 Sempre fui apaixonado pelo universo digital, por novas tecnologias e inovações.
 
