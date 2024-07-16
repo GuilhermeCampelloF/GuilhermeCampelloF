@@ -7,7 +7,7 @@ Na realidade, me formei em direito no ano de 2020, mas logo percebi que não era
 <br>
 
 <div align="center">
-    <img alt="Profile GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300px" />
+    <img alt="Profile GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" />
 </div>
 
 <br>
