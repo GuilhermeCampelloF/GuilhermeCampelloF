@@ -4,7 +4,7 @@ Me chamo Guilherme Campello, tenho 26 anos e estou iniciando minha jornada no un
 
 Na realidade, me formei em direito no ano de 2020, mas logo percebi que não era aquilo que deveria seguir durante a minha vida. Dessa forma, resolvi me **desafiar**!
 
-<img alt="Profile GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250px" align="right"/>
+<img alt="Profile GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="240px" align="right"/>
 
 Sempre fui apaixonado pelo universo digital, por novas tecnologias e inovações.
 
