@@ -52,5 +52,5 @@ Para alcançar esse objetivo, conclui o curso de Desenvolvimento Web Full-Stack 
 <div align="center">
   <p><strong>Ou me procure através dos meus outros links!</strong></p>
   <a href="https://www.linkedin.com/in/guilhermecampello/" target="_blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="50px" height="50px" target="_blank"></a> 
-  <a href="https://instagram.com/gui.campello" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" target="_blank" width="50px" height="50px"></a>
+  <a href="https://instagram.com/gui.campello" target="_blank"><img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg" target="_blank" width="50px" height="50px"></a>
 </div>
